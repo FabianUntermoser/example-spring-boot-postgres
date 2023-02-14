@@ -2,6 +2,9 @@
 
 Showcase how to integrate Postgres with Spring Boot.
 
+## Requirements
+- Java 17
+
 ## Build & Run
 
 ```
